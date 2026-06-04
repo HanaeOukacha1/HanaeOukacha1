@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanae%20Oukacha&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=180&section=header&text=Hanae%20Oukacha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work;Open+to+internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=550&lines=2nd-year+student+%40+ENSIASD+%F0%9F%87%B2%F0%9F%87%A6;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work+%F0%9F%9A%80;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@ class Hanae(Developer):
 | [**HackerHub**](https://github.com/HanaeOukacha1/hackerhub) | Tech opportunities aggregator with SVD++ recommendations | Spring Boot, Next.js, Docker, MySQL |
 | [**Hospital Management**](https://github.com/HanaeOukacha1/hospital-management-cpp-gui) | Desktop HMS with modern Qt GUI | C++, Qt, PostgreSQL |
 | [**Bank Fraud Detection**](https://github.com/HanaeOukacha1/detection-fraude-bancaire) | ML fraud detection on financial data | Python, Scikit-learn, XGBoost |
-| [**ECG Classification**](https://github.com/HanaeOukacha1) | CNN Conv1D on MIT-BIH — 98.67% accuracy, F1 0.92 (Kaggle) | TensorFlow, Python |
+| [**ECG Classification**](https://github.com/HanaeOukacha1/ecg-heartbeat-classification) | CNN Conv1D on MIT-BIH — 98.67% accuracy, F1-Macro 0.92 (Kaggle) | TensorFlow, Python |
 
 </div>
 
@@ -96,12 +96,13 @@ class Hanae(Developer):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanaeOukacha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HanaeOukacha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&rank_icon=github"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HanaeOukacha1&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=HanaeOukacha1&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" height="165em"/>
 
 </div>
 
@@ -121,7 +122,7 @@ Web Developer Intern         @  Centre Informatique ENSMR  Apr - Jun 2024
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 *Open to internship opportunities in Software Engineering, AI & Full-Stack Development - Rabat, Morocco*
 
