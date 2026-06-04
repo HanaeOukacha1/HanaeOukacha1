@@ -1,80 +1,131 @@
-<h1 align="center">Hi, I'm Hanae ðŸ‘‹</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Student @ ENSIASD</b> Â· Rabat, Morocco<br/>
-  Full-Stack Developer Â· AI & ML Enthusiast Â· Mobile Dev
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hanae%20Oukacha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20Â·%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:hanaeoukacha04@gmail.com">ðŸ“§ hanaeoukacha04@gmail.com</a> Â·
-  <a href="https://www.linkedin.com/in/hanae-oukacha">ðŸ’¼ LinkedIn</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD+%F0%9F%87%B2%F0%9F%87%A6;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work+%F0%9F%9A%80;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
----
+<br/>
 
-### ðŸ§  About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanae-oukacha)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanaeoukacha04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaeOukacha1)
 
-I'm a 2nd-year Software Engineering student at **ENSIASD** (National School of Artificial Intelligence and Data Science). I love building things that actually work â€” from full-stack web apps to ML models deployed in real products.
-
-I've worked in production environments, shipped features used by real users, and competed on Kaggle. I'm comfortable with both backend architecture and AI pipelines.
+</div>
 
 ---
 
-### ðŸš€ Featured Projects
+## ðŸ§  About Me
 
-| Project | Description | Stack |
-|---|---|---|
-| **Smart Campus Companion** | Mobile app for campus management â€” room booking, schedules, 3D visualization | React Native, FastAPI, PostgreSQL, Unity |
-| **SmartQCM** | AI-powered quiz generator from PDF/Word course materials using LLMs | Python, Flask, Google Gemini, React |
-| **HackerHub** | Tech opportunities aggregator with personalized recommendation engine (SVD++) | Spring Boot, Next.js, Docker, MySQL |
-| **ECG Classification** | CNN Conv1D on MIT-BIH dataset â€” **98.67% accuracy**, F1-Macro 0.92 (Kaggle) | Python, TensorFlow, Scikit-learn |
+```python
+class Hanae(Developer):
+    def __init__(self):
+        self.name        = "Hanae Oukacha"
+        self.school      = "ENSIASD â€” National School of AI & Data Science"
+        self.year        = "2nd year Software Engineering"
+        self.location    = "Rabat, Morocco ðŸ‡²ðŸ‡¦"
+        self.interests   = ["Full-Stack Dev", "AI/ML", "Mobile Dev"]
+        self.looking_for = "Internship in Software Engineering / AI / Full-Stack"
+
+    def __str__(self):
+        return "Building things that actually work â€” from web apps to ML pipelines"
+```
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+## ðŸš€ Featured Projects
+
+<div align="center">
+
+| ðŸ—‚ï¸ Project | ðŸ“‹ Description | ðŸ› ï¸ Stack |
+|:---|:---|:---|
+| [**ðŸŽ“ Smart Campus Companion**](https://github.com/HanaeOukacha1) | Mobile app â€” room booking, schedules, 3D campus visualization | React Native Â· FastAPI Â· PostgreSQL Â· Unity |
+| [**ðŸ§  SmartQCM**](https://github.com/HanaeOukacha1/smart-qcm) | AI quiz generator from PDF/Word using LLMs | Python Â· Flask Â· Gemini Â· React |
+| [**ðŸ”— HackerHub**](https://github.com/HanaeOukacha1/hackerhub) | Tech opportunities aggregator with SVD++ recommendations | Spring Boot Â· Next.js Â· Docker Â· MySQL |
+| [**ðŸ¥ Hospital Management**](https://github.com/HanaeOukacha1/hospital-management-cpp-gui) | Desktop HMS with modern Qt GUI | C++ Â· Qt Â· PostgreSQL |
+| [**ðŸ’³ Bank Fraud Detection**](https://github.com/HanaeOukacha1/detection-fraude-bancaire) | ML fraud detection on financial data | Python Â· Scikit-learn Â· XGBoost |
+| [**ðŸ“Š ECG Classification**](https://github.com/HanaeOukacha1) | CNN Conv1D on MIT-BIH â€” **98.67% accuracy**, F1 0.92 (Kaggle) | TensorFlow Â· Python |
+
+</div>
+
+---
+
+## ðŸ› ï¸ Tech Stack
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Backend**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **AI & Data**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+**DevOps & Tools**
 
-### ðŸ’¼ Experience
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Full-Stack Developer Intern** @ DIEZE, Rabat *(Julâ€“Aug 2025)* â€” Real-time messaging & KPI dashboards in production ERP
-- **Web Developer Intern** @ Centre Informatique ENSMR, Rabat *(Aprâ€“Jun 2024)* â€” Stock management app (Laravel/MySQL)
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to internship opportunities in Software Engineering, AI, and Full-Stack Development Â· Rabat, Morocco</i>
-</p>
+## ðŸ“Š GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanaeOukacha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HanaeOukacha1&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ðŸ’¼ Experience
+
+```
+ðŸ¢  Full-Stack Developer Intern    @ DIEZE, Rabat              Jul â€“ Aug 2025
+     â””â”€ Real-time messaging & KPI dashboards in production ERP
+
+ðŸ¢  Web Developer Intern           @ Centre Informatique ENSMR  Apr â€“ Jun 2024
+     â””â”€ Stock management web app (Laravel / MySQL)
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*âœ¨ Open to internship opportunities in Software Engineering, AI & Full-Stack Development Â· Rabat, Morocco*
+
+</div>
