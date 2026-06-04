@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hanae%20Oukacha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20Â·%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hanae%20Oukacha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD+%F0%9F%87%B2%F0%9F%87%A6;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work+%F0%9F%9A%80;Open+to+internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,42 +14,39 @@
 
 ---
 
-## ðŸ§  About Me
+## About Me
 
-```python
+`python
 class Hanae(Developer):
     def __init__(self):
         self.name        = "Hanae Oukacha"
-        self.school      = "ENSIASD â€” National School of AI & Data Science"
+        self.school      = "ENSIASD - National School of AI & Data Science"
         self.year        = "2nd year Software Engineering"
-        self.location    = "Rabat, Morocco ðŸ‡²ðŸ‡¦"
+        self.location    = "Rabat, Morocco"
         self.interests   = ["Full-Stack Dev", "AI/ML", "Mobile Dev"]
         self.looking_for = "Internship in Software Engineering / AI / Full-Stack"
-
-    def __str__(self):
-        return "Building things that actually work â€” from web apps to ML pipelines"
-```
+`
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| ðŸ—‚ï¸ Project | ðŸ“‹ Description | ðŸ› ï¸ Stack |
+| Project | Description | Stack |
 |:---|:---|:---|
-| [**ðŸŽ“ Smart Campus Companion**](https://github.com/HanaeOukacha1) | Mobile app â€” room booking, schedules, 3D campus visualization | React Native Â· FastAPI Â· PostgreSQL Â· Unity |
-| [**ðŸ§  SmartQCM**](https://github.com/HanaeOukacha1/smart-qcm) | AI quiz generator from PDF/Word using LLMs | Python Â· Flask Â· Gemini Â· React |
-| [**ðŸ”— HackerHub**](https://github.com/HanaeOukacha1/hackerhub) | Tech opportunities aggregator with SVD++ recommendations | Spring Boot Â· Next.js Â· Docker Â· MySQL |
-| [**ðŸ¥ Hospital Management**](https://github.com/HanaeOukacha1/hospital-management-cpp-gui) | Desktop HMS with modern Qt GUI | C++ Â· Qt Â· PostgreSQL |
-| [**ðŸ’³ Bank Fraud Detection**](https://github.com/HanaeOukacha1/detection-fraude-bancaire) | ML fraud detection on financial data | Python Â· Scikit-learn Â· XGBoost |
-| [**ðŸ“Š ECG Classification**](https://github.com/HanaeOukacha1) | CNN Conv1D on MIT-BIH â€” **98.67% accuracy**, F1 0.92 (Kaggle) | TensorFlow Â· Python |
+| [**Smart Campus Companion**](https://github.com/HanaeOukacha1) | Mobile app for room booking, schedules & 3D campus visualization | React Native, FastAPI, PostgreSQL, Unity |
+| [**SmartQCM**](https://github.com/HanaeOukacha1/smart-qcm) | AI quiz generator from PDF/Word using LLMs | Python, Flask, Gemini, React |
+| [**HackerHub**](https://github.com/HanaeOukacha1/hackerhub) | Tech opportunities aggregator with SVD++ recommendations | Spring Boot, Next.js, Docker, MySQL |
+| [**Hospital Management**](https://github.com/HanaeOukacha1/hospital-management-cpp-gui) | Desktop HMS with modern Qt GUI | C++, Qt, PostgreSQL |
+| [**Bank Fraud Detection**](https://github.com/HanaeOukacha1/detection-fraude-bancaire) | ML fraud detection on financial data | Python, Scikit-learn, XGBoost |
+| [**ECG Classification**](https://github.com/HanaeOukacha1) | CNN Conv1D on MIT-BIH — 98.67% accuracy, F1 0.92 (Kaggle) | TensorFlow, Python |
 
 </div>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -95,7 +92,7 @@ class Hanae(Developer):
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -110,15 +107,15 @@ class Hanae(Developer):
 
 ---
 
-## ðŸ’¼ Experience
+## Experience
 
-```
-ðŸ¢  Full-Stack Developer Intern    @ DIEZE, Rabat              Jul â€“ Aug 2025
-     â””â”€ Real-time messaging & KPI dashboards in production ERP
+`
+Full-Stack Developer Intern  @  DIEZE, Rabat              Jul - Aug 2025
+  Real-time messaging & KPI dashboards in production ERP
 
-ðŸ¢  Web Developer Intern           @ Centre Informatique ENSMR  Apr â€“ Jun 2024
-     â””â”€ Stock management web app (Laravel / MySQL)
-```
+Web Developer Intern         @  Centre Informatique ENSMR  Apr - Jun 2024
+  Stock management web app (Laravel / MySQL)
+`
 
 ---
 
@@ -126,6 +123,6 @@ class Hanae(Developer):
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*âœ¨ Open to internship opportunities in Software Engineering, AI & Full-Stack Development Â· Rabat, Morocco*
+*Open to internship opportunities in Software Engineering, AI & Full-Stack Development - Rabat, Morocco*
 
 </div>
