@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hanae%20Oukacha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanae%20Oukacha&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work;Open+to+internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=2nd-year+student+%40+ENSIASD;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-`python
+```python
 class Hanae(Developer):
     def __init__(self):
         self.name        = "Hanae Oukacha"
@@ -25,7 +25,7 @@ class Hanae(Developer):
         self.location    = "Rabat, Morocco"
         self.interests   = ["Full-Stack Dev", "AI/ML", "Mobile Dev"]
         self.looking_for = "Internship in Software Engineering / AI / Full-Stack"
-`
+```
 
 ---
 
@@ -109,13 +109,13 @@ class Hanae(Developer):
 
 ## Experience
 
-`
+```
 Full-Stack Developer Intern  @  DIEZE, Rabat              Jul - Aug 2025
   Real-time messaging & KPI dashboards in production ERP
 
 Web Developer Intern         @  Centre Informatique ENSMR  Apr - Jun 2024
   Stock management web app (Laravel / MySQL)
-`
+```
 
 ---
 
