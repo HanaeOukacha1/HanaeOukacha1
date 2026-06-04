@@ -101,10 +101,6 @@ class Hanae(Developer):
 &nbsp;
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=HanaeOukacha1&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" height="165em"/>
-
 </div>
 
 ---
