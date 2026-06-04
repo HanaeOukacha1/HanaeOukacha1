@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=180&section=header&text=Hanae%20Oukacha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- Simplified Top Image for Reliability -->
+![Hanae Oukacha](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanae%20Oukacha&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20and%20Full-Stack&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=550&lines=2nd-year+student+%40+ENSIASD+%F0%9F%87%B2%F0%9F%87%A6;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work+%F0%9F%9A%80;Open+to+internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=550&lines=2nd-year+student+%40+ENSIASD;Full-Stack+%7C+AI+%7C+Mobile+Developer;Building+things+that+actually+work;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -96,9 +97,9 @@ class Hanae(Developer):
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HanaeOukacha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanaeOukacha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&rank_icon=github"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanaeOukacha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
 
 <br/><br/>
 
@@ -122,7 +123,7 @@ Web Developer Intern         @  Centre Informatique ENSMR  Apr - Jun 2024
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=100&section=footer&animation=fadeIn" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 *Open to internship opportunities in Software Engineering, AI & Full-Stack Development - Rabat, Morocco*
 
