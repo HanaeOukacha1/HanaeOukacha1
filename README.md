@@ -36,7 +36,7 @@ class Hanae(Developer):
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**Smart Campus Companion**](https://github.com/HanaeOukacha1) | Mobile app for room booking, schedules & 3D campus visualization | React Native, FastAPI, PostgreSQL, Unity |
+| [**Smart Campus Companion**](https://github.com/HanaeOukacha1/smart-campus) | Mobile app for room booking, schedules & 3D campus visualization | React Native, FastAPI, PostgreSQL, Unity |
 | [**SmartQCM**](https://github.com/HanaeOukacha1/smart-qcm) | AI quiz generator from PDF/Word using LLMs | Python, Flask, Gemini, React |
 | [**HackerHub**](https://github.com/HanaeOukacha1/hackerhub) | Tech opportunities aggregator with SVD++ recommendations | Spring Boot, Next.js, Docker, MySQL |
 | [**Hospital Management**](https://github.com/HanaeOukacha1/hospital-management-cpp-gui) | Desktop HMS with modern Qt GUI | C++, Qt, PostgreSQL |
